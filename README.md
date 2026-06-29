@@ -130,7 +130,7 @@ project-management-api/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/project-management-api.git
+https://github.com/saiyasaswi-685/Project-Management-API
 
 cd project-management-api
 ```
@@ -305,7 +305,7 @@ Current Status:
 
 ## 👩‍💻 Author
 
-**Siripurapu Veera Venkata Vishnu Swetha**
+**SAI YASASWI**
 
 Computer Science & Engineering Student
 
